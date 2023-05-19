@@ -1,0 +1,4 @@
+config:
+  aws-native:maxRetries: "25"
+  aws:region: us-east-1
+  pulumi:template: github.com/pulumi/templates//aws-typescript

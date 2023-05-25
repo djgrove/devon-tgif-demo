@@ -1,0 +1,8 @@
+{
+  "name": "devon-tgif-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/djgrove/devon-tgif-demo.git",
+  "author": "Devon Grove <devon@pulumi.com>",
+  "license": "MIT"
+}

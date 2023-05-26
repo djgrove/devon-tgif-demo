@@ -1,3 +1,3 @@
-name: aws-typescript
+name: static-website-aws-typescript
 runtime: nodejs
-description: A minimal AWS TypeScript Pulumi program
+description: A TypeScript program to deploy a static website on AWS

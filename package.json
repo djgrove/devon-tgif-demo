@@ -1,12 +1,19 @@
 {
-    "name": "static-website-aws-typescript",
-    "devDependencies": {
-        "@types/node": "^16"
-    },
-    "dependencies": {
-        "@pulumi/aws": "^5.23.0",
-        "@pulumi/pulumi": "^3.49.0",
-        "@pulumi/synced-folder": "^0.0.9",
-        "typescript": "^4.0.0"
-    }
+  "name": "devon-tgif-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djgrove/devon-tgif-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djgrove/devon-tgif-demo/issues"
+  },
+  "homepage": "https://github.com/djgrove/devon-tgif-demo#readme"
 }

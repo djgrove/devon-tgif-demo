@@ -1,4 +1,0 @@
-config:
-  aws-native:maxRetries: "1000000"
-  aws-native:region: us-west-2
-  pulumi:template: github.com/djgrove/devon-tgif-demo/
